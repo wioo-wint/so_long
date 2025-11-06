@@ -1,0 +1,7 @@
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/mlx42.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/edit_cache.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/rebuild_cache.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/list_install_components.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/install.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/install/local.dir
+/home/wintoo/42/MS 2/So Long/1/mlxlib/build/CMakeFiles/install/strip.dir
